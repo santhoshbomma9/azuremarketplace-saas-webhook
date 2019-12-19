@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "azuremarketplace-saas-webhook", "azuremarketplace-saas-webhook.csproj", "{32A00A2F-500D-457A-BD33-B6CC7374CDB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32A00A2F-500D-457A-BD33-B6CC7374CDB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32A00A2F-500D-457A-BD33-B6CC7374CDB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32A00A2F-500D-457A-BD33-B6CC7374CDB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32A00A2F-500D-457A-BD33-B6CC7374CDB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52E74F6A-6BFA-46A8-A9AA-538B3C925F93}
+	EndGlobalSection
+EndGlobal
